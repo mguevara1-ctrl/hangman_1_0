@@ -11,9 +11,9 @@ Para iniciar el juego, ejecuta el archivo principal desde la consola:
 `python main.py`
 
 ## Task List
-- [ ] Crear estructura del proyecto
-- [ ] Crear archivo `palabras.py` con lista de palabras
-- [ ] Crear archivo `dibujos.py` con representación del monigote
+- [x] Crear estructura del proyecto
+- [x] Crear archivo `palabras.py` con lista de palabras
+- [x] Crear archivo `dibujos.py` con representación del monigote
 - [ ] Crear archivo `main.py` e importar módulos
 - [ ] Implementar selección aleatoria de la palabra
 - [ ] Validar ingreso de datos (1 letra, A-Z, sin repetir)
